@@ -1,4 +1,6 @@
 # public-image-mirror
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpacoxu%2Fpublic-image-mirror.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpacoxu%2Fpublic-image-mirror?ref=badge_shield)
+
 
 ## 背景
 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
@@ -69,3 +71,7 @@ python scripts/sync-to-jp.py
 * 通过 加速 运行 artifacthub 上的镜像
 * 通过 加速 安装 kind
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpacoxu%2Fpublic-image-mirror.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpacoxu%2Fpublic-image-mirror?ref=badge_large)
